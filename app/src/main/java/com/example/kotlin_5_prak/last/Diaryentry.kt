@@ -1,4 +1,4 @@
-package com.example.kotlin_5_prak
+package com.example.kotlin_5_prak.last
 
 data class DiaryEntry(
     val fileName: String,

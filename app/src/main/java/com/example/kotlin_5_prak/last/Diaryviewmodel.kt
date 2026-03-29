@@ -1,4 +1,4 @@
-package com.example.kotlin_5_prak
+package com.example.kotlin_5_prak.last
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
