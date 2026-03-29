@@ -1,4 +1,4 @@
-package com.example.kotlin_5_prak
+package com.example.kotlin_5_prak.last2
 
 import android.app.Application
 import android.content.ContentValues
